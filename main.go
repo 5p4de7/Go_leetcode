@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	a := []int{-1, 1, 2, 3, 1}
-	b := two_sum_three_sum.CountPairs(a, 2)
-	fmt.Printf("%v\n", b)
+	a := []int{24, 3, 82, 22, 35, 84, 19}
+	b := two_sum_three_sum.TriangleNumber(a)
+	fmt.Printf("ans is %v\n", b)
 }
