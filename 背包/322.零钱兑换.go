@@ -42,7 +42,7 @@ func coinChange2(coins []int, amount int) (ans int) {
 	return -1
 }
 
-//*记忆化搜索
-//*dfs
-//*动态规划
+//* 记忆化搜索
+//* dfs
+//* 动态规划
 //todo 加入贪婪算法
