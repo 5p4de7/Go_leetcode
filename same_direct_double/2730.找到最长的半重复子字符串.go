@@ -1,0 +1,1 @@
+package same_direct_double
