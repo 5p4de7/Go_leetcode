@@ -1,4 +1,4 @@
-package same_direct_double
+package sliding_window
 
 //给你一个整数数组 nums 和一个整数 k 。
 //
